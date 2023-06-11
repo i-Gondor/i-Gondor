@@ -2,10 +2,10 @@
 hello i'm jesse
 currently in berlin
 previously in bristol, and ho chi minh
-now devops & infrastructure lead at zizoo
+now head of technology at zizoo
 
-i like helping people move from old legacy systems
-to new, automated, secure, and efficient platforms
+i help transform companies from legacy
+to automated, secure, and efficient systems
 
 not currently looking for new opportunities, thanks
 ```
