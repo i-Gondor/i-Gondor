@@ -6,6 +6,4 @@ now head of technology at zizoo
 
 i help transform companies from legacy
 to automated, secure, and efficient systems
-
-not currently looking for new opportunities, thanks
 ```
